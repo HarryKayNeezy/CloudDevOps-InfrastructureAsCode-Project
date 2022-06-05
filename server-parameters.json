@@ -1,0 +1,15 @@
+
+[
+    {
+      "ParameterKey": "EnvironmentName",
+      "ParameterValue": "UdacityProject"
+    },
+      {
+      "ParameterKey": "InstanceType",
+      "ParameterValue": "t2.medium"
+    },
+    {
+      "ParameterKey": "S3Bucket",
+      "ParameterValue": "harrys-devOps-website"
+    }
+  ]
