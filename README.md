@@ -16,7 +16,7 @@ Example
 
 Load Balancer URL:
 
-`http://.us-west-2.elb.amazonaws.com/` 
+`http://proje-webap-19h03lnccpj0-823753338.us-west-2.elb.amazonaws.com/`
 
 ### Changing Instance Size
 By default this script will launch your application on t3.small Ubuntu Linux instances with ImageID(AMI ID - ami-0ee8244746ec5d6d4). 
