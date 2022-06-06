@@ -7,8 +7,8 @@ I have to deploy web servers for a highly available web app using CloudFormation
 
 Script Deployment:
 
->./create.sh ProjectUdagram network.yml server-parameters.json
+` ./create.sh ProjectUdagram network.yml server-parameters.json`
 
 Load Balancer URL:
 
->http://.us-west-2.elb.amazonaws.com/
+` http://.us-west-2.elb.amazonaws.com/`
