@@ -52,3 +52,4 @@ You can run the supporting material in two easy steps:
 # Check the region in the update.sh file
 ./update.sh mySecStack servers.yml server-parameters.json
 ```
+
