@@ -24,7 +24,7 @@ To update this, go to the servers-parameters.json file, change the ParameterValu
 
 
 These files are included in the project:
-* /Screenshots : Screenshot the result of deploy. 
+* /screenshots : Screenshot the result of deploy. 
 * create.sh : Create the Cloudformation stack script. 
 * update.sh : Update the Cloudformation stack script.
 * delete.sh : Delete the Cloudformation stack script.
