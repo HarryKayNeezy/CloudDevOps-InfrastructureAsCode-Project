@@ -16,11 +16,15 @@ Example
 
 Load Balancer URL:
 
-`http://.us-west-2.elb.amazonaws.com/` 
+`http://proje-webap-19h03lnccpj0-823753338.us-west-2.elb.amazonaws.com/`
+
+### Changing Instance Size
+By default this script will launch your application on t3.small Ubuntu Linux instances with ImageID(AMI ID - ami-0ee8244746ec5d6d4). 
+To update this, go to the servers-parameters.json file, change the ParameterValues "InstanceType" to your suitable type.
 
 
 These files are included in the project:
-* /Screenshots : Screenshot the result of deploy. 
+* /screenshots : Screenshot the result of deploy. 
 * create.sh : Create the Cloudformation stack script. 
 * update.sh : Update the Cloudformation stack script.
 * delete.sh : Delete the Cloudformation stack script.
